@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Harry Potter",
+  title: "Xu (Sean) Xiong",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
@@ -11,8 +11,7 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "GitHub", link: "https://github.com/xiongxug/vuepress-homepage" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')

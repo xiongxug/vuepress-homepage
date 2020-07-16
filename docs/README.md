@@ -2,13 +2,13 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Xu (Sean) Xiong
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/xiongxug
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com
@@ -16,30 +16,28 @@ socials:
     icon: "/icons/instagram-mono.svg"
     link: https://www.instagram.com
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+cv: https://drive.google.com/file/d/1LgIl1cL2oO2jVD1FU7kHvXifr2VjIW5T/view?usp=sharing
+bio: Student at Wuhan University
+email: xiongxug@gmail.com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
-
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I’m a student at Wuhan University
 
 
 ## News
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [Sept 2017] Admitted to Wuhan University
 
 
 ## Education & Experiences
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **Wuhan University, Wuhan, China** <br/>September 2017 - present
+
+  Bachelor in Computer Science and Technology
 
 
 ## Projects
@@ -47,25 +45,15 @@ Sept 1991 - 1997
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/1.jpg" hideBorder=true>
 
-  **The Making of Harry Potter's Wand**
+  **WALL-E-Garbage-classification-robot**
 
-  Harry P., Hermione G., *et al*
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+Built a WALL-E-Garbage-classification-robot on Arduino and RaspberryPi.
 
-</ProjectCard>
+Using the object detection algorithm Mask RCNN to perform object detection on the video stream acquired by the Raspberry Pi. The identified objects are then classified by the InceptionV3. Used Bottle (Python Web Framework) and Bootstrap build a Web Panel which involved Camera Streaming, Autopilot and Manual control. Communicate computer and RaspberryPi with MQTT (message Queue Telemetry Transport)
 
-<ProjectCard hideBorder=true>
-
-  **Harry Potter and the Deathly Hallows**
-  
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
-
-  [[Link](https://www.google.com)]
+[[Link](https://isteps.comp.nus.edu.sg/event/sws-y2-19/module/Cluster3/project/9)]
 
 </ProjectCard>
 
@@ -74,8 +62,7 @@ Sept 1991 - 1997
 
 ### Contests
 
-- First place in **The Hogwarts House Cup**
-
+- First place in **‘Zero Cup’ Web Design Competition**
 
 <!-- Custom style for this page -->
 
