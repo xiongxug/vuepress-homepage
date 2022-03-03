@@ -20,13 +20,13 @@ actions:
   - text: Blog
     link: https://xiongxu.notion.site/
   - text: CV
-    link: /article/
+    link: /resume_Xu_Xiong.pdf
 footer: Made with ♥ by Sean. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-Master student at University of Illinois at Urbana-Champaign, majored in Electrical and Computer Engineering.
+Master student at University of Illinois at Urbana-Champaign
 
 </AboutCard>
 

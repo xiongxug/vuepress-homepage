@@ -16,7 +16,7 @@ socials:
     icon: "/icons/instagram-mono.svg"
     link: https://www.instagram.com/xiongxu_
 
-cv: https://s3.amazonaws.com/handshake.production/documents/documents/029/618/076/original/resume_Xu_Xiong.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAILGI2B7PIOQKG5EA%2F20220303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220303T062808Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=0ee240e3cf21b26c565bbbf00bb8b3b39384ea0a5b8db13086c97d6781172659
+cv: /resume_Xu_Xiong.pdf
 email: xiongxug@gmail.com
 ---
 
@@ -70,8 +70,6 @@ Built a WALL-E-Garbage-classification-robot on Arduino and RaspberryPi.
 </ProjectCard>
 
 ## Awards & Honors
-
-### Contests
 
 - Scholarship & Outstanding Student Award(Sept. 2019/2020) at Wuhan University
 - First place in **‘Zero Cup’ Web Design Competition**
