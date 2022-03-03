@@ -11,7 +11,6 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
-      { text: "GitHub", link: "https://github.com/xiongxug/vuepress-homepage" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')

@@ -17,8 +17,6 @@ socials:
 actions:
   - text: Projects
     link: /projects/
-  - text: Blog
-    link: https://xiongxu.notion.site/
   - text: CV
     link: /resume_Xu_Xiong.pdf
 footer: Made with ♥ by Sean. Powered by VuePress
