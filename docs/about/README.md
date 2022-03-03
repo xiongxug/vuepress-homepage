@@ -1,32 +1,32 @@
 ---
 pageClass: about-page
-description: 'The biography and information about me.'
+description: "The biography and information about me."
 avatar: /profile.jpg
-head: 'Xu (Sean) Xiong'
-info: 'Student at Wuhan University'
-interests: 'Interests: Coding'
+head: "Xu (Sean) Xiong"
+info: "ECE@UIUC"
+interests: "Interests: Coding and brewing coffee"
 socials:
-- title: github
-  link: https://github.com/xiongxug
-- title: linkedin
-  link: https://www.linkedin.com
-- title: instagram
-  link: https://www.instagram.com
-- title: email
-  link: ‘mailto:xiongxug@gmail.com'
+  - title: github
+    link: https://github.com/xiongxug
+  - title: linkedin
+    link: https://www.linkedin.com/in/xuxiong2/
+  - title: instagram
+    link: https://www.instagram.com/xiongxu_
+  - title: email
+    link: ‘mailto:xiongxug@gmail.com'
 actions:
-- text: Projects
-  link: /projects/
-- text: Blog
-  link: https://github.com/mtobeiyf
-- text: CV
-  link: /article/
+  - text: Projects
+    link: /projects/
+  - text: Blog
+    link: https://xiongxu.notion.site/
+  - text: CV
+    link: /article/
 footer: Made with ♥ by Sean. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I’m a student at Wuhan University.
+Master student at University of Illinois at Urbana-Champaign, majored in Electrical and Computer Engineering.
 
 </AboutCard>
 

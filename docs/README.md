@@ -11,13 +11,12 @@ socials:
     link: https://github.com/xiongxug
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/xuxiong2/
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.instagram.com/xiongxu_
 
-cv: https://drive.google.com/file/d/1LgIl1cL2oO2jVD1FU7kHvXifr2VjIW5T/view?usp=sharing
-bio: Student at Wuhan University
+cv: https://s3.amazonaws.com/handshake.production/documents/documents/029/618/076/original/resume_Xu_Xiong.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAILGI2B7PIOQKG5EA%2F20220303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220303T062808Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=0ee240e3cf21b26c565bbbf00bb8b3b39384ea0a5b8db13086c97d6781172659
 email: xiongxug@gmail.com
 ---
 
@@ -25,43 +24,56 @@ email: xiongxug@gmail.com
 
 ## About Me
 
-I’m a student at Wuhan University
-
+Master student at University of Illinois at Urbana-Champaign, majored in Electrical and Computer Engineering.
 
 ## News
 
+- [Aug. 2021] Admitted to University of Illinois at Urbana-Champaign
 - [Sept 2017] Admitted to Wuhan University
-
 
 ## Education & Experiences
 
-- **Wuhan University, Wuhan, China** <br/>September 2017 - present
+- **University of Illinois at Urbana-Champaign, IL, US** <br/> Expected Dec. 2022
+
+  Master of Engineering in Electrical & Computer Engineering
+
+- **Wuhan University, Wuhan, China** <br/> Sept. 2017 - Jun. 2021
 
   Bachelor in Computer Science and Technology
 
+- **University of California, Berkeley, US** <br/> Jan. 2020 - Mar. 2020
+
+  Visiting Student in EECS
+
+- **National University of Singapore** <br/> Jul. 2019 - Aug. 2019
+
+  Visiting Student, School of Computing
 
 ## Projects
-
 
 [→ Full list](/projects/)
 
 <ProjectCard image="/projects/1.jpg" hideBorder=true>
 
-  **WALL-E-Garbage-classification-robot**
+**WALL-E-Garbage-classification-robot**
 
 Built a WALL-E-Garbage-classification-robot on Arduino and RaspberryPi.
 
-Using the object detection algorithm Mask RCNN to perform object detection on the video stream acquired by the Raspberry Pi. The identified objects are then classified by the InceptionV3. Used Bottle (Python Web Framework) and Bootstrap build a Web Panel which involved Camera Streaming, Autopilot and Manual control. Communicate computer and RaspberryPi with MQTT (message Queue Telemetry Transport)
+- Built a WALL-E-object-classification-robot on Arduino and Raspberry Pi that detects and classifies objects and automatically navigates
+
+- Engineered an intelligent mobile platform and designed a web panel in Bottle (Python web framework) and Bootstrap that includes camera streaming, autopilot, and manual control
+
+- Established communication between the computer and Raspberry Pi with MQTT
 
 [[Link](https://isteps.comp.nus.edu.sg/event/sws-y2-19/module/Cluster3/project/9)]
 
 </ProjectCard>
 
-
 ## Awards & Honors
 
 ### Contests
 
+- Scholarship & Outstanding Student Award(Sept. 2019/2020) at Wuhan University
 - First place in **‘Zero Cup’ Web Design Competition**
 
 <!-- Custom style for this page -->
