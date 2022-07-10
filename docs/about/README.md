@@ -2,7 +2,7 @@
 pageClass: about-page
 description: "The biography and information about me."
 avatar: /profile.jpg
-head: "Xu (Sean) Xiong"
+head: "Xu Xiong"
 info: "ECE@UIUC"
 interests: "Interests: Coding and brewing coffee"
 socials:
@@ -19,7 +19,7 @@ actions:
     link: /projects/
   - text: CV
     link: /resume_Xu_Xiong.pdf
-footer: Made with ♥ by Sean. Powered by VuePress
+footer: Made with ♥ by Xu. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >

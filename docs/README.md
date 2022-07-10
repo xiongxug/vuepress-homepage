@@ -2,7 +2,7 @@
 pageClass: home-page
 # some data for the components
 
-name: Xu (Sean) Xiong
+name: Xu Xiong
 profile: /profile.jpg
 
 socials:
